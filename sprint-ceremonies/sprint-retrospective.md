@@ -6,44 +6,49 @@
 
 ## What Worked Well
 
-<!-- List things that went well during this sprint -->
+Communication within the team was clear and consistent
+Tasks were well divided among team members
+Most tasks were simple and completed quickly
+Team collaborated well during implementation and problem solving
+Clear understanding of sprint goal
 
-- e.g. *Communication within the team was clear and consistent*
--
--
+
 
 ## What Needs Improvement
 
-<!-- List things that could be improved -->
-
-- e.g. *PR reviews took too long, blocking other team members*
--
--
+PR reviews were sometimes delayed
+Better time management needed near the end of sprint
+Some tasks (like rebranding) required more coordination than expected
+Need more frequent status updates on issues
 
 ## Action Items
 
 > Concrete steps the team commits to for the next sprint.
 
-| Action Item | Owner | Due Date |
-|-------------|-------|----------|
-| e.g. *Set a 24h max turnaround for PR reviews* | *Scrum Master* | *Next sprint* |
-|             |       |          |
-|             |       |          |
+| Action Item                                 | Owner            | Due Date    |
+| ------------------------------------------- | ---------------- | ----------- |
+| Set a maximum 24h turnaround for PR reviews | Bardh Tahiri     | Next sprint |
+| Improve time estimation for complex tasks   | Dev Team         | Next sprint |
+| Provide daily updates on ticket progress    | All team members | Next sprint |
+
 
 ## Retrospective Summary Table
 
-| Worked Well | Needs Improvement | Next Steps |
-|-------------|-------------------|------------|
-| e.g. *Tasks were well defined* | e.g. *Reduce meeting time* | e.g. *Scrum Master: time-box meetings to 15 min* |
-|             |                   |            |
-|             |                   |            |
+| Worked Well             | Needs Improvement              | Next Steps                                   |
+| ----------------------- | ------------------------------ | -------------------------------------------- |
+| Tasks were well defined | PR reviews took too long       | Scrum Master: enforce faster PR reviews      |
+| Good team communication | Time pressure at end of sprint | Break tasks earlier and track progress daily |
+| Clear sprint goal       | Coordination on complex tasks  | Improve planning for larger tasks            |
+
 
 ## Team Mood
 
 > How does the team feel about the sprint? (Rate 1-5, with 5 being great)
 
-| Team Member | Rating | Comment |
-|-------------|--------|---------|
-| e.g. *John* | *4* | *Good sprint, but felt rushed at the end* |
-|             |        |         |
-|             |        |         |
+| Team Member    | Rating | Comment                             |
+| -------------- | ------ | ----------------------------------- |
+| Blertin Hamza  | 5      | Good sprint, tasks were clear       |
+| Drin Kurti     | 4      | Smooth work, minor delays in review |
+| Dion Haradinaj | 4      | Good teamwork and collaboration     |
+| Bardh Tahiri   | 5      | Sprint goal achieved successfully   |
+
